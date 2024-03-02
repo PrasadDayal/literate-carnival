@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Java **
 
-- 💬 Ask me about **Java, Python, React, HTML**
+- 💬 Ask me about **Java, Python, HTML**
 
 - 📫 How to reach me **prasaddayal71234@gmail.com**
 
