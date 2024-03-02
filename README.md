@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursing **BE in Computer from Savitribai Phule Pune Unversity**
 
-- 👯 I’m looking to collaborate on **Full Stack Java Stack**
+- 👯 I’m looking to collaborate on **Full Stack Java **
 
 - 💬 Ask me about **Java, Python, React, HTML**
 
